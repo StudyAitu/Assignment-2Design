@@ -1,0 +1,5 @@
+n,insert_average_ns,extract_average_ns,insert_comparisons,extract_comparisons,sorted
+100,11800,32833,206,863,true
+1000,30733,59792,2326,14996,true
+10000,255358,632108,22753,216531,true
+100000,1316783,6475441,227857,2831426,true
