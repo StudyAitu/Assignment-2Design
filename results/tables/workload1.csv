@@ -1,0 +1,9 @@
+n,structure,average_ns,accesses,theoretical
+100,DynamicArray,583458,10000,Theta(1)
+100,LinkedList,5269133,501508,Theta(n)
+1000,DynamicArray,101941,10000,Theta(1)
+1000,LinkedList,10327466,5005208,Theta(n)
+10000,DynamicArray,67225,10000,Theta(1)
+10000,LinkedList,206738425,50129208,Theta(n)
+100000,DynamicArray,24775,10000,Theta(1)
+100000,LinkedList,938209941,502489208,Theta(n)

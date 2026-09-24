@@ -1,0 +1,9 @@
+n,structure,average_ns,comparisons,theoretical
+100,DynamicArray,560791,95050,Theta(n)
+100,LinkedList,327025,95050,Theta(n)
+1000,DynamicArray,193533,500500,Theta(n)
+1000,LinkedList,830833,500500,Theta(n)
+10000,DynamicArray,191908,500500,Theta(n)
+10000,LinkedList,803149,500500,Theta(n)
+100000,DynamicArray,173766,500500,Theta(n)
+100000,LinkedList,806141,500500,Theta(n)
